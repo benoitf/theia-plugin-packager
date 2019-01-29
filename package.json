@@ -1,6 +1,6 @@
 {
   "name": "@theia/plugin-packager",
-  "version": "0.0.1",
+  "ddversion": "0.0.1",
   "description": "Package theia plugins",
   "author": "Florent Benoit",
   "license": "EPL-2.0",
